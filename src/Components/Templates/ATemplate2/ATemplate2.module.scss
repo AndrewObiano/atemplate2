@@ -98,7 +98,7 @@
     width: 30vw;
     position: relative;
     left: 5%;
-    top: 10%;
+    top: 55%;
   }
 }
 
@@ -189,36 +189,35 @@
     width: 100vw;
     overflow-x: hidden;
     h1 {
-      font-size: 2rem;
+      font-size: 5vw;
     }
 
     p {
       margin: 2vw;
       padding: 2vw;
-      font-size: 0.75rem;
+      font-size: 3vw;
     }
   }
 
   #slide1 {
-    h1 {
-      font-size: 1.25rem;
-    }
     p {
       margin-top: 50vh;
       width: 75vw;
+      font-size: 3vw;
+      top: 10%;
     }
   }
 
   #slide2 {
     p {
       width: 80vw;
-      font-size: 0.5rem;
+      font-size: 2vw;
     }
   }
 
   #slide3 {
     p {
-      font-size: 0.6rem;
+      font-size: 2vw;
     }
   }
 
